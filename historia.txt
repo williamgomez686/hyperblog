@@ -1,5 +1,17 @@
 william Eduardo Gomez Morales
 
-26 años 
+28 años 
 
 nacio en Guatemala
+
+git commit -m "Comentario descriptivo" ====> para aplicar un cambio en el archivo
+
+git config --list --show-origin ===> muestra donde estan las configuraciones
+git config ===> muestra las configuraciones 
+git config --global user.name "NOMBRE DE USUARIO" ===> para configurar los usuarios globales
+git config --global user.email "example@gmail.com" ===>para configurar el correo electronico
+
+
+xd
+
+
