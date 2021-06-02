@@ -13,5 +13,5 @@ git config --global user.email "example@gmail.com" ===>para configurar el correo
 
 
 
-hoy hablaremos de su vida
+hoy hablaremos de su vida y de su obra maestra xd 
 
