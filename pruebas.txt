@@ -1,0 +1,5 @@
+total 12
+-rw-rw-r-- 1 infwilliam infwilliam  403 jun  2 09:39 blogpost.html
+drwxrwxr-x 2 infwilliam infwilliam 4096 jun  2 09:37 css
+-rw-rw-r-- 1 infwilliam infwilliam  508 jun  2 09:56 historia.txt
+-rw-rw-r-- 1 infwilliam infwilliam    0 jun 11 12:49 pruebas.txt
